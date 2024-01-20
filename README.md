@@ -1,9 +1,10 @@
 # Technical Interview - PowerBI
 
-Objective: recreate a PowerBI dashboard from a dataset providen
+Objective: recreate a PowerBI dashboard from a dataset providen 
+
 Materials: 
-	- bank-full.xlsx - fictional data about bank clients
-	- bank-full about - field details
+- bank-full.xlsx - fictional data about bank clients
+- bank-full about - field details
 
 The process evaluates the candidates' PowerBI knowledge in the main aspects frequently used in the position for which they are applying. Using a dataset provided, the task consist in uploading that information and modelling the necessary elements to recreate the visuals shown in the sample dashboard.
 
